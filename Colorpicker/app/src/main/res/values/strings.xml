@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="default_color">255</string>
+    <string name="default_hex">#FFFFFF</string>
+</resources>
