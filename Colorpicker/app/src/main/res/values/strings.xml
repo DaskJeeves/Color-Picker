@@ -5,4 +5,11 @@
     <string name="blue">BLUE</string>
     <string name="default_color">255</string>
     <string name="default_hex">#FFFFFF</string>
+    <string name="SaveScreenTitle">Save Color</string>
+    <string name="save">Save</string>
+    <string name="channel_name">Test Channel</string>
+
+    <string-array name="default_list">
+        <item>No Favorites</item>
+    </string-array>
 </resources>
